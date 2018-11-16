@@ -6,7 +6,7 @@
 * [Dataset](#dataset)
 * [Tools](#tools)
 * [Projects](#projects)
-* [Learn](learn.md)
+* [Learn](https://github.com/farhad-bat/The-list-of-Human-Tracking-open-source-projects-libraries-dataset-tools/blob/master/Learn.md)
 
 ## Libraries
 ###### Basic vision libraries
