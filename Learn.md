@@ -19,6 +19,7 @@ Learn
 - [Transferring Rich Feature Hierarchies for Robust Visual Tracking](https://arxiv.org/abs/1501.04587) (2015) {SOT}
 - [Hierarchical Convolutional Features for Visual Tracking](https://ieeexplore.ieee.org/document/7410709) (2015) {SOT}
 - [Online Tracking by Learning Discriminative Saliency Map with Convolutional Neural Network](https://arxiv.org/abs/1502.06796) (2015) {SOT}
+- [Siamese Instance Search for Tracking](https://ieeexplore.ieee.org/document/7780527/) (2016) {SOT}
 
 
 
