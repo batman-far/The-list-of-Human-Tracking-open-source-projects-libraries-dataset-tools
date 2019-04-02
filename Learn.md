@@ -20,6 +20,7 @@ Learn
 - [Hierarchical Convolutional Features for Visual Tracking](https://ieeexplore.ieee.org/document/7410709) (2015) {SOT}
 - [Online Tracking by Learning Discriminative Saliency Map with Convolutional Neural Network](https://arxiv.org/abs/1502.06796) (2015) {SOT}
 - [Siamese Instance Search for Tracking](https://ieeexplore.ieee.org/document/7780527/) (2016) {SOT}
+- [A Siamese Long Short-Term Memory Architecture for Human Re-Identification](https://arxiv.org/abs/1607.08381) (2016) {ReId}
 
 
 
