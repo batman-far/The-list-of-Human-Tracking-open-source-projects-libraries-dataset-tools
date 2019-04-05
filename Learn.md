@@ -21,6 +21,7 @@ Learn
 - [Online Tracking by Learning Discriminative Saliency Map with Convolutional Neural Network](https://arxiv.org/abs/1502.06796) (2015) {SOT}
 - [Siamese Instance Search for Tracking](https://ieeexplore.ieee.org/document/7780527/) (2016) {SOT}
 - [A Siamese Long Short-Term Memory Architecture for Human Re-Identification](https://arxiv.org/abs/1607.08381) (2016) {ReId}
+- [Learning to Track at 100 FPS with Deep Regression Networks](https://link.springer.com/chapter/10.1007/978-3-319-46448-0_45) (2016) {SOT}
 
 
 
