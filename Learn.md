@@ -22,6 +22,7 @@ Learn
 - [Siamese Instance Search for Tracking](https://ieeexplore.ieee.org/document/7780527/) (2016) {SOT}
 - [A Siamese Long Short-Term Memory Architecture for Human Re-Identification](https://arxiv.org/abs/1607.08381) (2016) {ReId}
 - [Learning to Track at 100 FPS with Deep Regression Networks](https://link.springer.com/chapter/10.1007/978-3-319-46448-0_45) (2016) {SOT}
+- [Learning Multi-Domain Convolutional Neural Networks for Visual Tracking](https://ieeexplore.ieee.org/document/7780834) (2016) {SOT}
 
 
 
