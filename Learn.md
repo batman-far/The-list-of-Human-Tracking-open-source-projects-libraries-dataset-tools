@@ -23,7 +23,8 @@ Learn
 - [A Siamese Long Short-Term Memory Architecture for Human Re-Identification](https://arxiv.org/abs/1607.08381) (2016) {ReId}
 - [Learning to Track at 100 FPS with Deep Regression Networks](https://link.springer.com/chapter/10.1007/978-3-319-46448-0_45) (2016) {SOT}
 - [Learning Multi-Domain Convolutional Neural Networks for Visual Tracking](https://ieeexplore.ieee.org/document/7780834) (2016) {SOT}
-- [Online Multi-Target Tracking Using Recurrent Neural Networks](https://arxiv.org/abs/1604.03635) (2016) {MOT}
+- [Online Multi-Target Tracking Using Recurrent Neural Networks](https://arxiv.org/abs/1604.03635) (2016) {MOT, Code}
+- [Detect-and-Track: Efficient Pose Estimation in Videos](https://arxiv.org/abs/1712.09184) (2018) {MOT, Code}
 
 
 
