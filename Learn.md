@@ -25,6 +25,7 @@ Learn
 - [Learning Multi-Domain Convolutional Neural Networks for Visual Tracking](https://ieeexplore.ieee.org/document/7780834) (2016) {SOT}
 - [Online Multi-Target Tracking Using Recurrent Neural Networks](https://arxiv.org/abs/1604.03635) (2016) {MOT, Code}
 - [Detect-and-Track: Efficient Pose Estimation in Videos](https://arxiv.org/abs/1712.09184) (2018) {MOT, Code}
+- [Simple Baselines for Human Pose Estimation and Tracking(FlowTrack)](https://arxiv.org/abs/1804.06208) (2018){MOT,pos, Code}
 
 
 
