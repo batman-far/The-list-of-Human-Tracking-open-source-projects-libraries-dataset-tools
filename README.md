@@ -29,7 +29,7 @@ Dataset for benchmark/test/experiment/evalutation
 - [ETH dataset](http://www.vision.ee.ethz.ch/en/datasets/)
 - [PETS dataset](https://motchallenge.net/data/PETS2017/)
 - [TUD dataset](https://www.mpi-inf.mpg.de/departments/computer-vision-and-multimodal-computing/software-and-datasets/)
-- [detrac dataset (Just cars)](https://detrac-db.rit.albany.edu/)
+- [DETRAC dataset (Just cars)](https://detrac-db.rit.albany.edu/)
 - [Urban Tracker dataset](https://www.jpjodoin.com/urbantracker/dataset.html)
 
 
