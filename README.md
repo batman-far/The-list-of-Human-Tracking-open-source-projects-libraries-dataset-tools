@@ -25,6 +25,13 @@ Dataset for benchmark/test/experiment/evalutation
 - [PoseTrack](https://posetrack.net/)
 - [Visual Tracker Benchmark (Single Object Tracking)](http://cvlab.hanyang.ac.kr/tracker_benchmark/benchmark_v10.html)
 - [VOT (Single Object Tracking)](http://www.votchallenge.net/vot2018/dataset.html)
+- [KITTI Vision Benchmark (Focus on cars & pedestrains)](http://www.cvlibs.net/datasets/kitti/eval_tracking.php)
+- [ETH dataset](http://www.vision.ee.ethz.ch/en/datasets/)
+- [PETS dataset](https://motchallenge.net/data/PETS2017/)
+- [TUD dataset](https://www.mpi-inf.mpg.de/departments/computer-vision-and-multimodal-computing/software-and-datasets/)
+- [detrac dataset (Just cars)](https://detrac-db.rit.albany.edu/)
+- [Urban Tracker dataset](https://www.jpjodoin.com/urbantracker/dataset.html)
+
 
 ## Tools
 
