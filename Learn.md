@@ -29,4 +29,4 @@ Learn
 - [A Twofold Siamese Network for Real-Time Object Tracking](http://openaccess.thecvf.com/content_cvpr_2018/CameraReady/3980.pdf) (2018) {SOT}
 - [Machine Learning Methods for Solving Assignment Problems in Multi-Target Tracking](https://arxiv.org/abs/1802.06897) (2018) {Survey}
 - [A Hybrid Data Association Framework for Robust Online Multi-Object Tracking](https://ieeexplore.ieee.org/document/8016620) (2017) {MOT}
-
+- [Recurrent Autoregressive Networks for Online Multi-object Tracking](https://ieeexplore.ieee.org/document/8354161) (2018) {MOT}
