@@ -39,5 +39,6 @@ Dataset for benchmark/test/experiment/evalutation
 ## Projects
 - [Detect-and-Track: Efficient Pose Estimation in Videos](https://github.com/facebookresearch/DetectAndTrack)
 - [Simple Baselines for Human Pose Estimation and Tracking(FlowTrack)](https://github.com/Microsoft/human-pose-estimation.pytorch)
+- [Real-time Multiple People Tracking with Deeply Learned Candidate Selection and Person Re-Identification](https://github.com/longcw/MOTDT)
 
 
