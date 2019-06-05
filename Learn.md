@@ -30,5 +30,6 @@ Learn
 - [Machine Learning Methods for Solving Assignment Problems in Multi-Target Tracking](https://arxiv.org/abs/1802.06897) (2018) {Survey}
 - [A Hybrid Data Association Framework for Robust Online Multi-Object Tracking](https://ieeexplore.ieee.org/document/8016620) (2017) {MOT}
 - [Recurrent Autoregressive Networks for Online Multi-object Tracking](https://ieeexplore.ieee.org/document/8354161) (2018) {MOT}
-- [Real-time Multiple People Tracking with Deeply Learned Candidate Selection and Person Re-Identification](https://arxiv.org/abs/1809.04427) (2018) {MOT, Code}
-- [Online Multi-Object Tracking Using Joint Domain Information in Traffic Scenarios](https://ieeexplore.ieee.org/document/8621602) (2019) {MOT}
+- [Real-time Multiple People Tracking with Deeply Learned Candidate Selection and Person Re-Identification](https://arxiv.org/abs/1809.04427) (2018) {MOT, Online, Code}
+- [Online Multi-Object Tracking Using Joint Domain Information in Traffic Scenarios](https://ieeexplore.ieee.org/document/8621602) (2019) {MOT, Online}
+- [Online Multi-Object Tracking with Instance-Aware Tracker and Dynamic Model Refreshment](https://arxiv.org/abs/1902.08231) (2019){MOT,Online}
