@@ -31,7 +31,7 @@ Dataset for benchmark/test/experiment/evalutation
 - [TUD dataset](https://www.mpi-inf.mpg.de/departments/computer-vision-and-multimodal-computing/software-and-datasets/)
 - [DETRAC dataset (Just cars)](https://detrac-db.rit.albany.edu/)
 - [Urban Tracker dataset](https://www.jpjodoin.com/urbantracker/dataset.html)
-
+- [Stanford Drone Dataset](http://cvgl.stanford.edu/projects/uav_data/)
 
 ## Tools
 
