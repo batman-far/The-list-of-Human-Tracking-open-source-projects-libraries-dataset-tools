@@ -32,6 +32,7 @@ Dataset for benchmark/test/experiment/evalutation
 - [DETRAC dataset (Just cars)](https://detrac-db.rit.albany.edu/)
 - [Urban Tracker dataset](https://www.jpjodoin.com/urbantracker/dataset.html)
 - [Stanford Drone Dataset](http://cvgl.stanford.edu/projects/uav_data/)
+- [MOT with Mask Annotation](http://www.vision.rwth-aachen.de/page/mots)
 
 ## Tools
 - [Metrics for Benchmark multiple object trackers (MOT) in Python](https://github.com/cheind/py-motmetrics)
@@ -40,5 +41,6 @@ Dataset for benchmark/test/experiment/evalutation
 - [Detect-and-Track: Efficient Pose Estimation in Videos](https://github.com/facebookresearch/DetectAndTrack)
 - [Simple Baselines for Human Pose Estimation and Tracking(FlowTrack)](https://github.com/Microsoft/human-pose-estimation.pytorch)
 - [Real-time Multiple People Tracking with Deeply Learned Candidate Selection and Person Re-Identification](https://github.com/longcw/MOTDT)
+- [MOTS: Multi-Object Tracking and Segmentation](http://www.vision.rwth-aachen.de/page/mots)
 
 
