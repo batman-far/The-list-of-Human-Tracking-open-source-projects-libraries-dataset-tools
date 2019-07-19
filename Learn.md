@@ -34,4 +34,4 @@ Learn
 - [Online Multi-Object Tracking Using Joint Domain Information in Traffic Scenarios](https://ieeexplore.ieee.org/document/8621602) (2019) {MOT, Online}
 - [Online Multi-Object Tracking with Instance-Aware Tracker and Dynamic Model Refreshment](https://arxiv.org/abs/1902.08231) (2019){MOT,Online}
 - [Online Multi-Object Tracking Using CNN-based Single Object Tracker with Spatial-Temporal Attention Mechanism](http://openaccess.thecvf.com/content_ICCV_2017/papers/Chu_Online_Multi-Object_Tracking_ICCV_2017_paper.pdf) (2017) {MOT, Online}
-- [https://www.sciencedirect.com/science/article/abs/pii/S0031320319301645](Instance-aware representation learning and association for online multi-person tracking) (2019){MOT, Online}
+- [Instance-aware representation learning and association for online multi-person tracking](https://www.sciencedirect.com/science/article/abs/pii/S0031320319301645) (2019){MOT, Online}
