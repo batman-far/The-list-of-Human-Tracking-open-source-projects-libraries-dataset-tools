@@ -42,5 +42,5 @@ Dataset for benchmark/test/experiment/evalutation
 - [Simple Baselines for Human Pose Estimation and Tracking(FlowTrack)](https://github.com/Microsoft/human-pose-estimation.pytorch)
 - [Real-time Multiple People Tracking with Deeply Learned Candidate Selection and Person Re-Identification](https://github.com/longcw/MOTDT)
 - [MOTS: Multi-Object Tracking and Segmentation](http://www.vision.rwth-aachen.de/page/mots)
-
+- [AlphaPose](https://github.com/MVIG-SJTU/AlphaPose)
 
