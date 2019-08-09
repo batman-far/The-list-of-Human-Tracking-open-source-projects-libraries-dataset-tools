@@ -45,3 +45,4 @@ Dataset for benchmark/test/experiment/evalutation
 - [AlphaPose](https://github.com/MVIG-SJTU/AlphaPose)
 - [Tracking without bells and whistles](https://github.com/phil-bergmann/tracking_wo_bnw)
 - [Online Multi-Object Tracking with Dual Matching Attention Networks](https://github.com/jizhu1023/DMAN_MOT) 
+- [Deep Affinity Network for Multiple Object Tracking](https://github.com/shijieS/SST)
