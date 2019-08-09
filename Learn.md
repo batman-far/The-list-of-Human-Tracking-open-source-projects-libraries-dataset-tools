@@ -36,3 +36,4 @@ Learn
 - [Online Multi-Object Tracking Using CNN-based Single Object Tracker with Spatial-Temporal Attention Mechanism](http://openaccess.thecvf.com/content_ICCV_2017/papers/Chu_Online_Multi-Object_Tracking_ICCV_2017_paper.pdf) (2017) {MOT, Online}
 - [Instance-aware representation learning and association for online multi-person tracking](https://www.sciencedirect.com/science/article/abs/pii/S0031320319301645) (2019){MOT, Online}
 - [Tracking without bells and whistles](https://arxiv.org/pdf/1903.05625.pdf) (2019){MOT, Online, Code}
+- [Multi-target tracking using CNN-based features: CNNMTT](https://link.springer.com/article/10.1007%2Fs11042-018-6467-6) (2018) {MOT, Online}
