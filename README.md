@@ -44,3 +44,4 @@ Dataset for benchmark/test/experiment/evalutation
 - [MOTS: Multi-Object Tracking and Segmentation](http://www.vision.rwth-aachen.de/page/mots)
 - [AlphaPose](https://github.com/MVIG-SJTU/AlphaPose)
 - [Tracking without bells and whistles](https://github.com/phil-bergmann/tracking_wo_bnw)
+- [Online Multi-Object Tracking with Dual Matching Attention Networks](https://github.com/jizhu1023/DMAN_MOT) 
