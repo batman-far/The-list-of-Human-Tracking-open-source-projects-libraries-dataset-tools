@@ -2,7 +2,7 @@ Learn
 ======================
 
 #### Article & blogs
-
+-[How a Kalman filter works, in pictures](https://www.bzarg.com/p/how-a-kalman-filter-works-in-pictures/)
 
 ### Online tutorial videos
 
