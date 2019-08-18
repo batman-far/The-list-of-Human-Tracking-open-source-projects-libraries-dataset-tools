@@ -47,3 +47,4 @@ Dataset for benchmark/test/experiment/evalutation
 - [Online Multi-Object Tracking with Dual Matching Attention Networks](https://github.com/jizhu1023/DMAN_MOT) 
 - [Deep Affinity Network for Multiple Object Tracking](https://github.com/shijieS/SST)
 - [SIMPLE ONLINE AND REALTIME TRACKING WITH A DEEP ASSOCIATION METRIC](https://github.com/nwojke/deep_sort)
+- [SSD Sort](https://github.com/SpyderXu/ssd_sort)
