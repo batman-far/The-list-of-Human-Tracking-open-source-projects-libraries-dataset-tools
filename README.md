@@ -52,3 +52,7 @@ Dataset for benchmark/test/experiment/evalutation
 - [IoU Tracker](https://github.com/LeeRel1991/iou_tracker)
 - [OTCD](https://github.com/liuqk3/OTCD)
 - [Chainer-sort](https://github.com/knorth55/chainer-sort)
+- [ELP Tracker](https://github.com/niallmcl/ELP-Tracker)
+- [deeplens](https://github.com/sjyk/deeplens)
+- [Learning to Track: Online Multi-Object Tracking by Decision Making](https://github.com/yuxng/MDP_Tracking)
+- [Online Multi-Target Tracking with Recurrent Neural Networks](https://github.com/KnockKnock13/RNN_MOT)
