@@ -48,3 +48,4 @@ Dataset for benchmark/test/experiment/evalutation
 - [Deep Affinity Network for Multiple Object Tracking](https://github.com/shijieS/SST)
 - [SIMPLE ONLINE AND REALTIME TRACKING WITH A DEEP ASSOCIATION METRIC](https://github.com/nwojke/deep_sort)
 - [SSD Sort](https://github.com/SpyderXu/ssd_sort)
+- [DeepMOT](DeepMOT)
