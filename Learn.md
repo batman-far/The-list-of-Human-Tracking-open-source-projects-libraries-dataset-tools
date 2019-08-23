@@ -3,6 +3,7 @@ Learn
 
 #### Article & blogs
 -[How a Kalman filter works, in pictures](https://www.bzarg.com/p/how-a-kalman-filter-works-in-pictures/)
+-[Deep Learning for tracking](https://github.com/abhineet123/Deep-Learning-for-Tracking-and-Detection)
 
 ### Online tutorial videos
 
