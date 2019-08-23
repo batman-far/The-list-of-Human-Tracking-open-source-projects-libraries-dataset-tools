@@ -37,4 +37,4 @@ Learn
 - [Instance-aware representation learning and association for online multi-person tracking](https://www.sciencedirect.com/science/article/abs/pii/S0031320319301645) (2019){MOT, Online}
 - [Tracking without bells and whistles](https://arxiv.org/pdf/1903.05625.pdf) (2019){MOT, Online, Code}
 - [Multi-target tracking using CNN-based features: CNNMTT](https://link.springer.com/article/10.1007%2Fs11042-018-6467-6) (2018) {MOT, Online}
-- [High-Speed Tracking-by-Detection Without Using Image Information](https://github.com/bochinski/iou-tracker/)(2017)(MOT)
+- [High-Speed Tracking-by-Detection Without Using Image Information](https://github.com/bochinski/iou-tracker/)(2017) {MOT}
