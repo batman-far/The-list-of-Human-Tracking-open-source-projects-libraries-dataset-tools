@@ -57,3 +57,4 @@ Dataset for benchmark/test/experiment/evalutation
 - [Online Multi-Target Tracking with Recurrent Neural Networks](https://github.com/KnockKnock13/RNN_MOT)
 - [Simple Online and realtime tracking](https://github.com/abewley/sort)
 - [Deep Attentive Tracking via Reciprocative Learning](https://github.com/shipubupt/NIPS2018)
+- [Deep Sort](https://github.com/ZQPei/deep_sort_pytorch)
