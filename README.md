@@ -59,3 +59,4 @@ Dataset for benchmark/test/experiment/evalutation
 - [Deep Attentive Tracking via Reciprocative Learning](https://github.com/shipubupt/NIPS2018)
 - [Deep Sort](https://github.com/ZQPei/deep_sort_pytorch)
 - [Sort](https://github.com/abewley/sort)
+- [Learning to Track at 100 FPS with Deep Regression Networks](https://davheld.github.io/GOTURN/GOTURN.html)
