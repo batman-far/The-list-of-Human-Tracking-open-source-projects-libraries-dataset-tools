@@ -60,3 +60,4 @@ Dataset for benchmark/test/experiment/evalutation
 - [Deep Sort](https://github.com/ZQPei/deep_sort_pytorch)
 - [Sort](https://github.com/abewley/sort)
 - [Learning to Track at 100 FPS with Deep Regression Networks](https://davheld.github.io/GOTURN/GOTURN.html)
+- [Simple Online and Realtime Tracking with a Deep Association Metric](https://paperswithcode.com/paper/simple-online-and-realtime-tracking-with-a)
