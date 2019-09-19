@@ -40,5 +40,5 @@ Learn
 - [Tracking without bells and whistles](https://arxiv.org/pdf/1903.05625.pdf) (2019){MOT, Online, Code}
 - [Multi-target tracking using CNN-based features: CNNMTT](https://link.springer.com/article/10.1007%2Fs11042-018-6467-6) (2018) {MOT, Online}
 - [High-Speed Tracking-by-Detection Without Using Image Information](https://github.com/bochinski/iou-tracker/)(2017) {MOT}
-- [Simple Online and Realtime Tracking](https://github.com/abewley/sort) (2016){MOT, Online}
-
+- [Simple Online and Realtime Tracking](https://github.com/abewley/sort) (2016){MOT, Online, Code}
+- [Simple Online and Realtime Tracking with a Deep Association Metric](https://paperswithcode.com/paper/simple-online-and-realtime-tracking-with-a) (2017){MOT, Online, Code}
