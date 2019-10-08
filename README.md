@@ -61,3 +61,4 @@ Dataset for benchmark/test/experiment/evalutation
 - [Sort](https://github.com/abewley/sort)
 - [Learning to Track at 100 FPS with Deep Regression Networks](https://davheld.github.io/GOTURN/GOTURN.html)
 - [Simple Online and Realtime Tracking with a Deep Association Metric](https://paperswithcode.com/paper/simple-online-and-realtime-tracking-with-a)
+- [DAN (Deep Affinity Network)](https://github.com/shijieS/SST)
