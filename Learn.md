@@ -42,3 +42,4 @@ Learn
 - [High-Speed Tracking-by-Detection Without Using Image Information](https://github.com/bochinski/iou-tracker/)(2017) {MOT}
 - [Simple Online and Realtime Tracking](https://github.com/abewley/sort) (2016){MOT, Online, Code}
 - [Simple Online and Realtime Tracking with a Deep Association Metric](https://paperswithcode.com/paper/simple-online-and-realtime-tracking-with-a) (2017){MOT, Online, Code}
+- [Deep Affinity Network for Multiple Object Tracking](https://ieeexplore.ieee.org/abstract/document/8766896) (2019){MOT, Online, Code}
