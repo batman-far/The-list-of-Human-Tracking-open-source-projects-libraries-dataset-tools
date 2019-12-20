@@ -33,6 +33,7 @@ Dataset for benchmark/test/experiment/evalutation
 - [Urban Tracker dataset](https://www.jpjodoin.com/urbantracker/dataset.html)
 - [Stanford Drone Dataset](http://cvgl.stanford.edu/projects/uav_data/)
 - [MOT with Mask Annotation](http://www.vision.rwth-aachen.de/page/mots)
+- [PathTrack](http://people.ee.ethz.ch/~daid/pathtrack/)
 
 ## Tools
 - [Metrics for Benchmark multiple object trackers (MOT) in Python](https://github.com/cheind/py-motmetrics)
