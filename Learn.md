@@ -45,3 +45,4 @@ Learn
 - [Simple Online and Realtime Tracking with a Deep Association Metric](https://paperswithcode.com/paper/simple-online-and-realtime-tracking-with-a) (2017){MOT, Online, Code}
 - [Deep Affinity Network for Multiple Object Tracking](https://ieeexplore.ieee.org/abstract/document/8766896) (2019){MOT, Online, Code}
 - [Recent advances and trends in visual tracking: A review](https://www.sciencedirect.com/science/article/abs/pii/S0925231211004668) (2011) 
+- [MOTS: Multi-Object Tracking and Segmentation](https://arxiv.org/abs/1902.03604) (2019){MOT, Online, Code}
