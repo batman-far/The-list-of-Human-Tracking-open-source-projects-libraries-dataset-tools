@@ -47,3 +47,4 @@ Learn
 - [Recent advances and trends in visual tracking: A review](https://www.sciencedirect.com/science/article/abs/pii/S0925231211004668) (2011) 
 - [MOTS: Multi-Object Tracking and Segmentation](https://arxiv.org/abs/1902.03604) (2019){MOT, Online, Code}
 - [Tracking The Untrackable: Learning To Track Multiple Cues with Long-Term Dependencies](https://arxiv.org/abs/1701.01909) (2017){MOT, Online}
+- [Deep Alignment Network Based Multi-person Tracking with Occlusion and Motion Reasoning](https://ieeexplore.ieee.org/document/8488599) (2018){MOT, Online}
